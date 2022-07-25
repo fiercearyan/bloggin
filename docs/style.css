@@ -525,7 +525,7 @@ section .title::after{
 }
 .contact .contact-content .row{
     display: flex;
-    height: 65px;
+    height: 66px;
     align-items: center;
 }
 .contact .contact-content .row .info{
