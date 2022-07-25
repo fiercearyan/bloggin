@@ -47,6 +47,12 @@ $(document).ready(function(){
        backSpeed: 60,
        loop: true
    });
+   var typed = new Typed(".typing-3", {
+       strings: ["JAVA", "MySQL", "JavaScript", "HTML/CSS", "jQuery", "Git/GitHub"],
+       typeSpeed: 100,
+       backSpeed: 60,
+       loop: true
+   });
 
    // owl carousel script
    $('.carousel').owlCarousel({
